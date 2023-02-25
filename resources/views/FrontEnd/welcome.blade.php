@@ -1,0 +1,1 @@
+You already register! Please  <a class="nav-link" href="{{ route('login') }}">Login</a>
