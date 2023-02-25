@@ -1,0 +1,1 @@
+You already register! Please  <a class="nav-link" href="<?php echo e(route('login')); ?>">Login</a><?php /**PATH C:\laragon\www\Cookies\resources\views/FrontEnd/welcome.blade.php ENDPATH**/ ?>
